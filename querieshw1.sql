@@ -53,8 +53,7 @@ WHERE
 -- 6. List the names of agents in New York or Newark
 
 SELECT
-   agents.name,
-   agents.city
+   agents.name
 FROM
    public.agents
 WHERE
