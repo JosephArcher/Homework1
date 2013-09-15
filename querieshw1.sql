@@ -1,5 +1,6 @@
 -- Joseph Archer
 -- Queries Homework # 1
+-- September 15th 2013
 
 -- 1. List the data for all customers
 
